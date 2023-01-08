@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-VGG19-
+# Neural-Style-Transfer-VGG19
 This project uses Neural Style Transfer algorithms to recreate content pictures with respect to different painting styles.
 The following project is conducted and implemented based on Leon A. Gatys et al. (2015) A Neural Algorithm of Artistic Style https://arxiv.org/abs/1508.06576.
 Truth be told, in my last repository, I took the liberty to change the architecture but VGG19 seems the best answer possible. However, the knowledge is not only meant to be shared but also to be altered spontaneously.
